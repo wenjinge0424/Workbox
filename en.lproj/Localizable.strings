@@ -1,0 +1,134 @@
+/*
+ Localizable.strings
+ Bmbrella
+ 
+ Created by gao on 10/30/17.
+ Copyright © 2017 Mikolaj Kudumov. All rights reserved.
+ */
+
+
+/* Common */
+"error" = "Error";
+"success" = "Success";
+"please_wait" = "Please wait...";
+"cancel" = "Cancel";
+"network_error" = "The Internet connection appears to be offline";
+"today" = "Today";
+"invalid_user" = "Invalid User";
+"take_photo" = "Take a photo";
+"choose_gallery" = "Select from gallery";
+"ok" = "OK";
+"done" = "DONE";
+"yes" = "Yes";
+"no" = "No";
+"invalid_email" = "Email address is invalid.";
+"no_email" = "Please enter your email address.";
+"next" = "NEXT";
+"warning" = "Warning";
+
+/* Login */
+"msg_not_registerd_email" = "Email entered is not registered. Create an account now?";
+"not_now" = "Not now";
+"let_go" = "Let's go";
+"email_placeholder" = "    Email";
+"enter_email" = "Enter email address";
+"enter_password" = "Enter your password";
+"re_enter_pwd" = "Re-enter password";
+"incorrect_password" = "Password entered is incorrect.";
+"login_failed" = "Login Failed";
+"no_email_password" = "Please enter email and password.";
+"no_password" = "Please enter password.";
+
+/* Onborading Page */
+"title_one" = "The world's latest innovation to help\njob seekers find a job.";
+"title_two" = "Win the bid to secure the job.";
+"title_three" = "An app specially tailored for job\n seekers.";
+
+"welcome1" = "Welcome to WorkBox";
+"welcome2" = "Users";
+"welcome3" = "WorkBox";
+
+/* Sign Up */
+"sign_up" = "SIGN UP";
+"success_sign_up" = "Congratulation! Your account was created successfully.";
+"personal" = "Personal";
+"business" = "Business";
+"select_type" = "Select your\naccount type";
+"not_use" = "Not in use";
+"valid_email" = "Valid email";
+"pwd_one" = "At least 6 characters long.";
+"pwd_two" = "Contains uppercase letter.";
+"pwd_three" = "Contains lowercase letter.";
+"pwd_four" = "Contains a number.";
+"pwd_five" = "Matches new password.";
+"err_single" = "We detected an error. Help me review your answer and try again.";
+"err_multi" = "We detected a few errors. Help me reivew your answers and try again.";
+"confirm_avatar" = "Are you sure want to proceed without a profile photo?";
+"upload_photo" = "Upload photo";
+"job_experience" = "Job Experience";
+
+/* Reset Password */
+"reset_pwd" = "RESET PASSWORD";
+"reset_desc" = "Put in your email so we can send \n a password reset link.";
+"sent_reset_link" = "We've sent a password reset link to your email.";
+
+/* Settings */
+"loggin_out" = "Logging out...";
+"log_out" = "Log Out";
+"choose_lng" = "Choose Language";
+"lng" = "Language";
+"english" = "English";
+"arabic" = "Arabic";
+"french" = "French";
+"settings" = "Settings";
+"edit_profile" = "Edit Profile";
+"rate_app" = "Rate App";
+"send_feedback" = "Send Feedback";
+"about_app" = "About the App";
+"privacy" = "Privacy Policy";
+"terms_condition" = "Terms & Conditions";
+"brief_description" = "Brief Description";
+"add_more" = "  Add more";
+
+/* Chat */
+"no_receiver" = "Please select user to chat";
+"chat_placeholder" = "Write comment here...";
+"new_message" = "New Message";
+"no_message" = "Please enter your message.";
+
+/* Post */
+"no_category" = "Pleae select a category.";
+"no_photo" = "Please upload a photo.";
+"post" = "Post";
+"new_post" = "New Post";
+"like" = "Like";
+"likes" = "Likes";
+"comment" = "Comment";
+"comments" = "Comments";
+"own_like_warnig" = "You cannot like your post.";
+"already_liked" = "You already liked this post.";
+"already_reported" = "You already reported this post.";
+"already_reported_user" = "You already reported this user.";
+"confirm_del_post" = "Are you sure want to delete this post?";
+"confirm_report_post" = "Are you sure want to report this post?";
+"confirm_report_user" = "Are you sure want to report this user?";
+"long_comment" = "Comment is too long.";
+"report_post" = "Report Post";
+"report_user" = "Report User";
+"report" = "Report";
+"short_reason" = "The reason is too short.";
+"long_reason" = "The reason is too long.";
+"no_reason" = "Please enter the reason.";
+"no_comment" = "Please enter comment.";
+
+/* Profile */
+"friends" = "Friends";
+"add_friend" = "Add Friend";
+"already_friend" = "This user is already your friend";
+"friend" = "Friend";
+"job_position" = "Job Position";
+
+/* New Elements */
+"long_message" = "Message is too long.";
+"no_result" = "No result found";
+"no_record" = "No record found";
